@@ -4,50 +4,55 @@
 
 # Hello, I'm Rajan 👋
 
-Passionate Software Developer | Open Source Enthusiast | Lifelong Learner
+Passionate Software Developer | Lifelong Learner
 
 Welcome to my GitHub profile! I'm a software developer with a deep passion for creating elegant and efficient solutions to real-world problems. I enjoy working with a variety of technologies and am always excited to learn something new.
 
 ## 🚀 Quick Overview
 
-- 🌱 I’m currently learning and experimenting with [Technology/Tool Name].
-- 🔭 I’m currently working on [Project Name].
+- 🌱 I’m currently learning and experimenting with Python/Django.
+- 🔭 I’m currently working on Khalti Admin.
 - 👯 I’m looking to collaborate on open source projects and interesting ideas.
-- 💬 Ask me about [Anything You're Knowledgeable In].
-- 📫 How to reach me: [Your Email Address or Social Media Links]
+- 💬 Ask me about Javascript, React, Next Js.
+- 📫 How to reach me: rajansth77@gmail.com
 
 ## ⚡ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** [List the languages you're proficient in]
-- **Front-end:** [List the front-end technologies you use]
-- **Back-end:** [List the back-end technologies you use]
-- **Databases:** [List the databases you work with]
-- **DevOps/CI/CD:** [List DevOps and CI/CD tools you're familiar with]
-- **Other Tools:** [Any other relevant tools]
+- **Programming Languages:** JavaScript (ES6+), Typescript
+- **Front-end:** React, Redux, MobX, Next JS, Bootstrap, React Native (Basic Knowledge)
+- **Back-end:** Python, Node JS
+- **Web Technologies:** HTML5, CSS3, RESTful APIs, JSON
+- **Databases:** MySQL
+- **Version Control:** Git
+- **Build Tools:** Webpack, Babel
+- **Testing:** Jest, RTL (React Testing Library)
+- **UI/UX:** Responsive Design, CSS pre-processor (SASS), Figma
 
 ## 🌟 Featured Projects
 
 Take a look at some of my featured projects:
 
-- [Project 1](link-to-project-1): A brief description of the project and what you learned from it.
-- [Project 2](link-to-project-2): Highlight another project that you're proud of.
-- [Project 3](link-to-project-3): Showcase your versatility with a different type of project.
+- [Programiz: Learn to Code for Free](https://programiz.vercel.app/): Learn to code
+- [Baagchal](https://baagchal.vercel.app/): A CLASSIC MASTERPIECE
+- [Game Hub](https://game-hub-self-rho.vercel.app/): A Platform for games
+- [Promptopia](https://game-hub-self-rho.vercel.app/): Create your prompt
+- [Premier League Tie Sheet](https://football-match.vercel.app/): Premier league games
 
-## 📚 Blog & Articles
+<!-- ## 📚 Blog & Articles
 
 I occasionally write about my experiences, tips, and tricks on my [blog](link-to-your-blog) or on platforms like Medium. Here are some of my recent articles:
 
 - [Article 1](link-to-article-1): A short description of the article.
-- [Article 2](link-to-article-2): Briefly mention another article.
+- [Article 2](link-to-article-2): Briefly mention another article. -->
 
 ## 📫 Get in Touch
 
 Feel free to connect with me on:
 
-- GitHub: [GitHub Profile](https://github.com/dev-rajan)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- GitHub: [dev-rajan](https://github.com/dev-rajan)
+- LinkedIn: [Rajan Shrestha](https://www.linkedin.com/in/dev-rajan/)
+- Twitter: [@rajansth77](https://twitter.com/rajansth77)
 
 Let's collaborate and build amazing things together! 😄
