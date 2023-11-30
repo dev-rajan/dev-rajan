@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/dev-rajan/dev-rajan/blob/main/assets/profile.gif" alt="Hello! I'm Rajan." width="200" height="200">
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=dev-rajan&label=Profile%20views&color=0e75b6&style=flat" alt="dev-rajan" /> </p>
 </p>
 
 # Hello, I'm Rajan 👋
