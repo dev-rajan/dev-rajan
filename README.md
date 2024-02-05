@@ -35,6 +35,7 @@ Here are some of the technologies and tools I work with:
 
 Take a look at some of my featured projects:
 
+- [Portfolio](https://www.rajanshrestha1994.com.np/): Personal Portfolio Website
 - [Programiz: Learn to Code for Free](https://programiz.vercel.app/): Learn to code
 - [Baagchal](https://baagchal.vercel.app/): A CLASSIC MASTERPIECE
 - [Game Hub](https://game-hub-self-rho.vercel.app/): A Platform for games
